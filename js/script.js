@@ -1,8 +1,8 @@
 let imageArr = [
-    'https://mirpozitiva.ru/uploads/posts/2016-08/medium/1472042485_04.jpg',
-    'https://mirpozitiva.ru/uploads/posts/2016-08/1472043884_02.jpg',
-    'https://mirpozitiva.ru/uploads/posts/2016-08/medium/1472042585_06.jpg',
-    'https://mirpozitiva.ru/uploads/posts/2016-08/medium/1472042805_21.jpg',
+   'https://bipbap.ru/wp-content/uploads/2017/10/0_8eb56_842bba74_XL.jpg',
+    'https://bipbap.ru/wp-content/uploads/2017/10/0_a9e8c_fefaa1d2_XL.jpg',
+    'https://bipbap.ru/wp-content/uploads/2017/10/fon-1.jpg',
+    'https://bipbap.ru/wp-content/uploads/2017/10/fon-2.jpg',
 ];
 
 let rootElem = $('#root');
